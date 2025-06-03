@@ -27,8 +27,6 @@ GradePredictor/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/GradePredictor.git
-cd GradePredictor
 
 # 2. Create and activate virtual environment
 python3 -m venv .venv
