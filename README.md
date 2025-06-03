@@ -1,7 +1,5 @@
 # GradePredictor-OOP-Based-Student-Performance-Estimator
 
-# GradePredictor – OOP-Based Student Performance Estimator
-
 GradePredictor is a terminal-based, object-oriented Python project that predicts student final grades based on study time, assignment performance, and attendance. It uses a simple linear regression model (via scikit-learn) and emphasizes clean OOP design with practical input/output logic.
 
 ## Features
